@@ -1,0 +1,1 @@
+<img src="{{ asset('logoppid.png') }}" class="h-10">
