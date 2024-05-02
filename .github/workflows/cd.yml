@@ -4,6 +4,7 @@ name: Deploy App
   push:
     branches:
       - main
+      - master
 # on:
 #   pull_request:
 #     branches:
